@@ -2,7 +2,11 @@
 
 ## Test CoE Model:
 
-Multimodal: test CoE model by lmms-eval
+### Language Models:
+
+### Multimodal Models:
+
+#### Test CoE model by lmms-eval
 
 1. Install the environment based on lmms-eval and the selected model.
 
@@ -18,7 +22,7 @@ Multimodal: test CoE model by lmms-eval
 
    Note: As long as the selected model and task are supported by lmm-eval, you only need to make the necessary modifications in 'coemodel.py'.
 
-Multimodal: test CoE model by yourself(case):
+#### Test CoE model by yourself(case):
 
 1. Install the environment based on TinyLLaVA_Factory and Bunny, prepare the corresponding dataset.
 
