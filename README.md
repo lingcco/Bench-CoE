@@ -12,7 +12,7 @@
 
 2. Train the router(Bert) using the MMMU dataset.
 
-3. Place `coemodel.py` in the `.lmms_eval/models` directory and add 'coemodel' to the 'AVAILABLE_MODELS' list in `__init__.py`
+3. Place `coemodel.py` in the `.lmms_eval/models` directory and modify 'AVAILABLE_MODELS' list in `__init__.py`
 
 4. Modify the paths for the models and the router in the code.
 
@@ -25,7 +25,7 @@ Note: As long as the selected model and task are supported by lmm-eval, you only
 
 #### Test CoE model by yourself(case):
 
-1. Install the environment based on TinyLLaVA_Factory(https://github.com/TinyLLaVA/TinyLLaVA_Factory) and Bunny(https://github.com/BAAI-DCAI/Bunny), prepare the corresponding dataset.
+1. Install the environment based on [TinyLLaVA_Factory](https://github.com/TinyLLaVA/TinyLLaVA_Factory) and [Bunny](https://github.com/BAAI-DCAI/Bunny), prepare the corresponding dataset.
 
 2. Train the router(Bert) using the MMMU dataset.
 
@@ -35,3 +35,7 @@ Note: As long as the selected model and task are supported by lmm-eval, you only
    ```
 
 Note: When using this method, if you need to add a model, make modifications according to the loading method of the corresponding model.
+
+## ❤️ Community efforts
+
+* Our multimodal model experiments is built upon the [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) project. Great work!
