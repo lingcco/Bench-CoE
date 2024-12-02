@@ -37,5 +37,3 @@ Obtain the relevant datasets from Hugging Face, ensuring compatibility with your
 ### 5. Running the Test Scripts
 Execute the appropriate test files to evaluate the models and verify their performance.
 
-## Reference and Acknowledgment for BERT_base_uncased
-This project utilizes the `bert-base-uncased` model, initially developed and provided by the researchers at [Hugging Face](https://huggingface.co/google-bert/bert-base-uncased). We extend our gratitude to the Hugging Face community for providing open access to this foundational technology, which has significantly propelled our research and development efforts.
