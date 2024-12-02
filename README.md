@@ -73,6 +73,6 @@ Note: When using this method, if you need to add a model, make modifications acc
 
 ## ❤️ Community efforts
 
-* Our model utilizes the `bert-base-uncased` model, initially developed and provided by the researchers at [Hugging Face](https://huggingface.co/google-bert/bert-base-uncased). We extend our gratitude to the Hugging Face community for providing open access to this foundational technology, which has significantly propelled our research and development efforts.
+* Our model utilizes the [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased). We extend our gratitude to the Hugging Face community for providing open access to this foundational technology, which has significantly propelled our research and development efforts.
 
 * Our multimodal model experiments is built upon the [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) project. Great work!
