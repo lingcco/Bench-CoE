@@ -138,7 +138,7 @@ Our framework demonstrates strong generalization capabilities across different d
 - Demonstrates the scalability of benchmark-driven expert construction
 
 </details>
-
+<!-- 
 ### Key Insights
 
 1. **Pioneering Subject-Level Framework**:
@@ -150,7 +150,8 @@ Our framework demonstrates strong generalization capabilities across different d
    - Excellent performance and Effective cross-domain transfer in both language and multimodal tasks
 
 3. **Practical Efficiency**:
-   - Lightweight implementation with minimal computational overhead
+   - Lightweight implementation with minimal computational overhead -->
+
 
 ## 🛠️ Settings
 
