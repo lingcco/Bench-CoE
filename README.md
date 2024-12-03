@@ -49,7 +49,7 @@ Execute the appropriate test files to evaluate the models and verify their perfo
 
 3. Place `coemodel.py` in the `.lmms_eval/models` directory and modify 'AVAILABLE_MODELS' list in `__init__.py`
 
-4. Modify the paths for the models and the router in the code.
+4. Modify the paths for the model and the router in the code.
 
 5. Run the command and select the corresponding task to test coemodel:
    ```Shell
@@ -62,7 +62,7 @@ Note: As long as the selected model and task are supported by lmm-eval, you only
 
 1. Install the environment based on [TinyLLaVA_Factory](https://github.com/TinyLLaVA/TinyLLaVA_Factory) and [Bunny](https://github.com/BAAI-DCAI/Bunny), prepare the corresponding dataset.
 
-2. Download Pre-trained Router Models [subject_bert_mmmu](https://huggingface.co/Zhang199/subject_bert_mmmu).
+2. Download Pre-trained Router Model [subject_bert_mmmu](https://huggingface.co/Zhang199/subject_bert_mmmu).
 
 3. Run the command to test coemodel on the MMMU dataset:
    ```Shell
