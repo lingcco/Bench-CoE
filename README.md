@@ -1,5 +1,7 @@
 <h2 align="center"><a>Bench-CoE: a Framework for Collaboration of Experts from Benchmark</a><h5 align="center">
 
+## Introduction:
+
 Bench-CoE: a simple and efficient pipeline for combining and routing LLM-driven experts, which achieves flexible and efficient task routing without relying on extensive labeled data and large-scale training.
 
 ![architecture](./assets/architecture.jpg)
