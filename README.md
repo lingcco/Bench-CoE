@@ -30,7 +30,7 @@ Bench-CoE introduces a novel framework for expert collaboration through benchmar
 
 ## 🔍 Technical Approach
 
-<img src="assets/architecture.jpg" width="100%"/>
+<img src="assets/architecture.jpg" width="80%"/>
 
 Our framework introduces a simple yet effective approach for expert collaboration:
 
