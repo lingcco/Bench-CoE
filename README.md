@@ -1,6 +1,11 @@
-<h2 align="center"><a>Bench-CoE</a><h5 align="center">
+<h2 align="center"><a>Bench-CoE: a Framework for Collaboration of Experts from Benchmark</a><h5 align="center">
 
-## Test CoE Model:
+## Highlights:
+
+
+## Main Results:
+
+
 
 ### Language Models:
 #### Environment Setup
