@@ -8,7 +8,7 @@ Bench-CoE: a simple and efficient pipeline for combining and routing LLM-driven 
 
 ## Main Results:
 
-
+<img src="assets/results.jpg"/>
 
 ## Evaluation:
 
