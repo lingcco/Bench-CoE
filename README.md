@@ -10,14 +10,15 @@ Bench-CoE: a simple and efficient pipeline for combining and routing LLM-driven 
 
 
 
-## Test CoE Model:
+## Evaluation:
 
 ### Language Models:
+
 #### Environment Setup
 - `environment.yml`: Contains a list of Python dependencies and their versions, essential for setting up the development environment.
 
-#### Code
-##### Evaluation Scripts
+#### Evaluation Scripts
+
 The scripts in the `/coe evaluation` directory are designed to evaluate various aspects of trained models:
 - `eval_bbh_vllm_query.py`: Evaluates the performance of query-level Bench-CoE on the Big Bench Hard dataset.
 - `eval_bbh_vllm_subject.py`: Evaluates the performance of subject-level Bench-CoE on the Big Bench Hard dataset.
@@ -51,7 +52,7 @@ Execute the appropriate test files to evaluate the models and verify their perfo
 
 ### Multimodal Models:
 
-#### Test CoE model by lmms-eval
+#### Evaluation by lmms-eval
 
 1. Install the environment based on lmms-eval and the selected model.
 
@@ -68,7 +69,7 @@ Execute the appropriate test files to evaluate the models and verify their perfo
 
 Note: As long as the selected model and task are supported by lmm-eval, you only need to make the necessary modifications in `coemodel.py`.
 
-#### Test CoE model by yourself(case):
+#### Evaluation by yourself(case):
 
 1. Install the environment based on [TinyLLaVA_Factory](https://github.com/TinyLLaVA/TinyLLaVA_Factory) and [Bunny](https://github.com/BAAI-DCAI/Bunny), prepare the corresponding dataset.
 
