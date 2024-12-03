@@ -11,7 +11,7 @@
 
 Bench-CoE introduces a novel framework for expert collaboration through benchmark-driven approaches. This work pioneers subject-level expert collaboration, moving beyond traditional query-level methods to achieve more efficient and generalizable model cooperation.
 
-### Key Contributions
+<!-- ### Key Contributions
 
 1. **Novel Subject-Level Framework**:
    - First subject-level expert collaboration framework
@@ -26,7 +26,7 @@ Bench-CoE introduces a novel framework for expert collaboration through benchmar
 3. **Practical and Scalable Design**:
    - Lightweight implementation without extensive training
    - Flexible integration with existing models
-   - Efficient resource utilization
+   - Efficient resource utilization -->
 
 ## 🔍 Technical Approach
 
