@@ -151,6 +151,7 @@ Our framework demonstrates strong generalization capabilities across different d
 3. **Practical Efficiency**:
    - Lightweight implementation with minimal computational overhead -->
 
+</details>
 
 ## 🛠️ Settings
 
