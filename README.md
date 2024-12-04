@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-blue)]()
-[![License](https://img.shields.io/badge/License-MIT-green)]()
+[![License](https://img.shields.io/badge/License-Apache%202.0-green)]()
 
 </div>
 
@@ -263,11 +263,7 @@ CUDA_VISIBLE_DEVICES=0 bash scripts/eval_coe_mmmu.sh
 - If you need to add a model, make modifications according to the loading method of the corresponding model.
 ## ❤️ Community efforts
 
-* Our model utilizes the [bert-base-uncased](https://huggingface.co/
-google-bert/bert-base-uncased). We extend our gratitude to the Hugging 
-Face community for providing open access to this foundational 
-technology, which has significantly propelled our research and 
-development efforts.
+* Our model utilizes the [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased). We extend our gratitude to the Hugging Face community for providing open access to this foundational technology, which has significantly propelled our research and development efforts.
 ## 📚 Citation
 ```bibtex
 @inproceedings{anonymous2025bench,
