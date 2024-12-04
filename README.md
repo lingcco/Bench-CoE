@@ -68,13 +68,13 @@ Our experimental validation follows a three-stage progressive approach, systemat
 Our framework demonstrates significant improvements on two key benchmarks:
 
 #### MMLU-Pro Performance
-- **Base Model (Gemma-2-9b-it)**: 52.04%
+- **Best base Model (Gemma-2-9b-it)**: 52.04%
 - **Bench-CoE (Subject-Level)**: 52.24% (<span style="color: red">+0.2%</span>)
 - **Bench-CoE (Query-Level)**: 64.28% (<span style="color: red">+12.24%</span>)
 - Key achievement: Substantial improvement through query-level routing
 
 #### MMLU Performance
-- **Base Model (InternVL2-8B)**: 47.67%
+- **Best base Model (InternVL2-8B)**: 47.67%
 - **Bench-CoE (Subject-Level)**: 51.78% (<span style="color: red">+4.11%</span>)
 - Key achievement: Effective subject-level knowledge organization
 
@@ -92,12 +92,12 @@ Our framework demonstrates significant improvements on two key benchmarks:
 Our framework demonstrates robust performance on in-distribution tasks, validating the effectiveness of both query-level and subject-level approaches:
 
 #### Winogrande Performance
-- **Base Model (Gemma-2-9b-it)**: 66.14%
+- **Best base Model (Gemma-2-9b-it)**: 66.14%
 - **Bench-CoE (Query-Level)**: 67.01% (<span style="color: red">+0.87%</span>)
 - Key achievement: Consistent improvement in commonsense reasoning
 
 #### MMMU Performance
-- **Base Model (InternVL2-8B)**: 47.67%
+- **Best base Model (InternVL2-8B)**: 47.67%
 - **Bench-CoE (Subject-Level)**: 50.78% (<span style="color: red">+3.11%</span>)
 - Key achievement: Strong performance in multimodal understanding
 
@@ -117,7 +117,7 @@ Our framework demonstrates strong generalization capabilities across different d
 - **Training**: MMLU-Pro dataset for expert construction
 - **Testing**: Big-Bench-Hard (BBH) for out-distribution evaluation
 - **Results**:
-  * **Base Model (Mathstral-7B-v0.1)**: 66.35%
+  * **Best base Model (Mathstral-7B-v0.1)**: 66.35%
   * **Bench-CoE (Subject-Level)**: 69.91% (<span style="color: red">+3.56%</span>)
   * **Bench-CoE (Query-Level)**: 67.07% (<span style="color: red">+0.72%</span>)
 - Key achievement: Superior subject-level generalization to complex reasoning tasks
@@ -126,7 +126,7 @@ Our framework demonstrates strong generalization capabilities across different d
 - **Training**: MMMU dataset for expert construction
 - **Testing**: MMStar for cross-domain evaluation
 - **Results**:
-  * **Base Model (InternVL2-8B)**: 59.22%
+  * **Best base Model (InternVL2-8B)**: 59.22%
   * **Bench-CoE (Subject-Level)**: 60.09% (<span style="color: red">+0.87%</span>)
   * **Bench-CoE (Query-Level)**: 56.00% (<span style="color: blue">-3.22%</span>)
 - Key achievement: Robust subject-level transfer in multimodal scenarios
