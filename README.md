@@ -73,7 +73,7 @@ Our framework demonstrates significant improvements on two key benchmarks:
 - **Bench-CoE (Query-Level)**: 64.28% (<span style="color: red">+12.24%</span>)
 - Key achievement: Substantial improvement through query-level routing
 
-#### MMLU Performance
+#### MMMU Performance
 - **Best base Model (InternVL2-8B)**: 47.67%
 - **Bench-CoE (Subject-Level)**: 51.78% (<span style="color: red">+4.11%</span>)
 - Key achievement: Effective subject-level knowledge organization
@@ -172,7 +172,7 @@ The scripts in the `/coe_evaluation` directory are designed to evaluate various 
 
 #### Evaluation Scripts
 - **lmms-eval**: Framework for standardized multimodal evaluation
-- **Custom evaluation**: Scripts for specific multimodal tasks (MMMU, MMStar)
+- **Custom evaluation**: Scripts for specific multimodal tasks (MMMU, SQA)
 
 ## 💻 Usage
 
