@@ -264,6 +264,8 @@ CUDA_VISIBLE_DEVICES=0 bash scripts/eval_coe_mmmu.sh
 ## ❤️ Community efforts
 
 * Our model utilizes the [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased). We extend our gratitude to the Hugging Face community for providing open access to this foundational technology, which has significantly propelled our research and development efforts.
+* * Our multimodal model experiments is built upon the [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) project. Great work!
+
 ## 📚 Citation
 ```bibtex
 @inproceedings{anonymous2025bench,
